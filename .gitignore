@@ -43,6 +43,9 @@ yarn-error.log*
 /CLAUDE.md
 /docs/agents/
 
+# superseded planning reference
+/docs/specs/harn-roadmap.md
+
 # local-only receipt samples and exports
 /private/
 
